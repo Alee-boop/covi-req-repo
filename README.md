@@ -8,7 +8,7 @@ Reqvid is an App where people can add requirements needed in the covid situation
 ## Team Id
 BFH/recm93ZiQpeqv2Gec/2021
 ## Link to product walkthrough
-https://drive.google.com/file/d/1lAYeiWXIg3-dbW7ny_Z1--Xccu32fm1K/view?usp=drivesdk
+https://drive.google.com/file/d/1lIXX9b91IfGJGAO8zqQ4bQxQyqmfpPp8/view?usp=sharing
 ## How it Works ?
 1. Step 1: Create an account
 2. Step 2: Add a requirement
