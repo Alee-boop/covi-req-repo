@@ -71,7 +71,7 @@ class _CreateAccountState extends State<CreateAccount> {
                   Container(
                     width: size.width / 1.1,
                     child: Text(
-                      "Create Account to Contiue!",
+                      "Create Account to Continue!",
                       style: TextStyle(
                         color: Colors.grey[700],
                         fontSize: 20,
