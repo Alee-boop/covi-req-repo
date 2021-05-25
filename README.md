@@ -13,10 +13,11 @@ BFH/recm93ZiQpeqv2Gec/2021
 1. Step 1
 2. Step 2
 ## Libraries used
-firebase_auth: ^1.2.0
-firebase_core: ^1.2.0
-cloud_firestore: ^2.2.0 
-url_launcher: ^6.0.4
+1. firebase_auth: ^1.2.0
+2. firebase_core: ^1.2.0
+3. cloud_firestore: ^2.2.0 
+4. url_launcher: ^6.0.4
+5. flutter_launcher_icons: "^0.8.0"
 ## How to configure
 Instructions for setting up project
 ## How to Run
